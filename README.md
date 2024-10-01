@@ -28,9 +28,6 @@
 
 ---
 
----
----
-
 ![Snake animation](https://github.com/Camilarmota/Camilarmota/blob/main/github-user-contribution.svg)
 
 
