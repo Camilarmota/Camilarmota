@@ -1,4 +1,4 @@
-# Olá! Eu sou Camila Mota 👋
+# Hello, World! Eu sou Camila Mota 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Camilarmota-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilarmota)](https://www.linkedin.com/in/camila-rodrigues-mota/)
 
