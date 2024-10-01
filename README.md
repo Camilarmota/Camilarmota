@@ -1,6 +1,6 @@
 # Olá! Eu sou Camila Mota 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Camilarmota-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilarmota)](https://www.linkedin.com/in/camilarmota)
+[![Linkedin Badge](https://img.shields.io/badge/-Camilarmota-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilarmota)](https://www.linkedin.com/in/camila-rodrigues-mota/)
 
 ## Sobre mim
 - 🎓 Estudante de **Ciência de Dados e Análise**
@@ -24,7 +24,7 @@
 - [**Trilha Python - DIO**](https://github.com/Camilarmota/trilha-python-dio)
 
 ## 📫 Vamos nos conectar
-- LinkedIn: [linkedin.com/in/camilarmota](https://www.linkedin.com/in/camilarmota)
+- LinkedIn: [linkedin.com/in/camilarmota](https://www.linkedin.com/in/camila-rodrigues-mota/)
 
 ---
 
