@@ -30,6 +30,5 @@
 
 ---
 
-![Snake animation](https://github.com/Camilarmota/Camilarmota/blob/output/github-contribution-grid-snake.svg)
 
 
