@@ -4,7 +4,7 @@
 
 ## Sobre mim
 - 🎓 Estudante de **Ciência de Dados e Análise**
-- 💻 Amando trabalhar com **Python** e **SQL**
+- 💻 Amando estudar **Python** e **SQL**
 - 🔥 Apaixonada por explorar novas tecnologias e resolver problemas
 
 ## 🛠️ Habilidades
