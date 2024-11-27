@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Camilarmota-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilarmota)](https://www.linkedin.com/in/camila-rodrigues-mota/)
 
 ## Sobre mim
-- 🎓 Estudante de **Ciência de Dados e Análise**
+- 🎓 Estudante de **Ciência e Análise de Dados**
 - 💻 Amando estudar **Python** e **SQL**
 - 🔥 Apaixonada por explorar novas tecnologias e resolver problemas
 
