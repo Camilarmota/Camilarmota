@@ -8,7 +8,7 @@
 - 🔥 Apaixonada por explorar novas tecnologias e resolver problemas
 
 ## 🛠️ Habilidades
-- **Linguagens:** Python, SQL, JavaScript, C#
+- **Linguagens:** Python, SQL,
 - **Ferramentas:** Jupyter, Git, Power BI
 - **Bancos de Dados:** MySQL, PostgreSQL
 
