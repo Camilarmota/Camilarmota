@@ -24,7 +24,7 @@
 
 📊 Desenvolvendo projetos com **SQL**, **Python**, **Power BI** e **Excel**, explorando análise de dados, ETL, visualização e construção de dashboards.
 
-☁️ **AWS Certified Cloud Practitioner** | Ago/2026
+☁️ **AWS Certified Cloud Practitioner** | 811/1000
 
 🤖 Também estudo Inteligência Artificial, automação e tecnologias orientadas a dados, buscando transformar informações em insights e soluções práticas.
 
@@ -150,7 +150,7 @@
 <img src="https://img.shields.io/badge/Fundamentos-3C096C?style=flat-square"/>
 </p>
 
-<a href="https://www.credly.com/users/camila-mota.c2b51991" target="_blank">
+<a href="https://www.credly.com/badges/f3d60f87-15a2-4677-ac00-c72a21cb61ce" target="_blank">
 🏅 Ver Certificado
 </a>
 
@@ -168,7 +168,84 @@
 <img src="https://img.shields.io/badge/Visualização-3C096C?style=flat-square"/>
 </p>
 
-<a href="https://www.linkedin.com/in/camila-rodrigues-mota/details/certifications/" target="_blank">
+<a href="https://www.credly.com/badges/569681b2-c571-45a7-92af-ebefe6dfa4a0" target="_blank">
+🏅 Ver Certificado
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="500" valign="top">
+
+<h3>🎓 AWS Academy Graduate - Cloud Foundations</h3>
+
+<p>Formação com fundamentos de computação em nuvem AWS, cobrindo conceitos globais de infraestrutura, principais serviços e modelo de segurança compartilhada.</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Foundations-9D4EDD?style=flat-square"/>
+</p>
+
+<a href="https://www.credly.com/badges/de7f6dfd-bf06-40f7-8314-7393c5667492" target="_blank">
+🏅 Ver Certificado
+</a>
+
+</td>
+
+<td width="500" valign="top">
+
+<h3>🚀 AWS re/Start Graduate</h3>
+
+<p>Programa de desenvolvimento de habilidades e treinamento profissional que prepara para carreiras em nuvem, com aprendizado baseado em cenários reais e laboratórios práticos.</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-9D4EDD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hands--on%20Labs-3C096C?style=flat-square"/>
+</p>
+
+<a href="https://www.credly.com/badges/b6464625-3e43-4f73-80a9-24b575685335" target="_blank">
+🏅 Ver Certificado
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="500" valign="top">
+
+<h3>🎮 AWS Cloud Quest: Cloud Practitioner</h3>
+
+<p>Treinamento prático e gamificado em conceitos fundamentais de nuvem AWS, com desafios hands-on em serviços reais da plataforma.</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hands--on-9D4EDD?style=flat-square"/>
+</p>
+
+<a href="https://www.credly.com/badges/73c60fe4-ccec-4cd1-aabe-cb095f875b6c" target="_blank">
+🏅 Ver Certificado
+</a>
+
+</td>
+
+<td width="500" valign="top">
+
+<h3>📈 Introduction to Data Science</h3>
+
+<p>Fundamentos de ciência de dados: coleta, análise e interpretação de dados para apoiar a tomada de decisão.</p>
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Science-9D4EDD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
+
+<a href="https://www.credly.com/badges/d07794d5-7d04-48e5-ad73-ecfe8eac26a6" target="_blank">
 🏅 Ver Certificado
 </a>
 
