@@ -24,7 +24,7 @@
 
 📊 Desenvolvendo projetos com **SQL**, **Python**, **Power BI** e **Excel**, explorando análise de dados, ETL, visualização e construção de dashboards.
 
-☁️ **AWS Certified Cloud Practitioner** | 811/1000
+☁️ **AWS Certified Cloud Practitioner** | Ago/2026
 
 🤖 Também estudo Inteligência Artificial, automação e tecnologias orientadas a dados, buscando transformar informações em insights e soluções práticas.
 
