@@ -82,9 +82,6 @@
 <td align="center" width="120">
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br><sub><b>Seaborn</b></sub>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=excel" width="50"/><br><sub><b>Excel</b></sub>
-</td>
 </tr>
 </table>
 
