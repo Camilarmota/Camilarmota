@@ -9,7 +9,7 @@
 <!-- TYPING EFFECT -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Transi%C3%A7%C3%A3o+para+Data+Analytics+%26+BI;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Transformando+dados+em+insights;Construindo+dashboards+e+solu%C3%A7%C3%B5es+em+nuvem"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+BI+%7C+Cloud+Computing;Python+%7C+SQL+%7C+Power+BI+%7C+AWS;Transformando+dados+em+insights;Construindo+dashboards+e+solu%C3%A7%C3%B5es+em+nuvem"
     width="800"
   />
 </p>
@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre mim
 
-👩‍💻 Profissional da área da saúde em transição para Tecnologia, com foco em **Data Analytics**, **BI** e **Cloud Computing**.
+👩‍💻 Profissional da área da saúde, hoje dedicada a **Data Analytics**, **BI** e **Cloud Computing**.
 
 📊 Desenvolvendo projetos com **SQL**, **Python**, **Power BI** e **Excel**, explorando análise de dados, ETL, visualização e construção de dashboards.
 
@@ -37,9 +37,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilarmota&show_icons=true&theme=radical&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilarmota&layout=compact&langs_count=7&theme=radical&title_color=9D4EDD&text_color=ffffff&bg_color=000000"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Camilarmota&include_all_commits=true&theme=radical&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff&bg_color=000000"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Camilarmota&layout=compact&langs_count=7&theme=radical&title_color=9D4EDD&text_color=ffffff&bg_color=000000"/>
 </p>
+
+<!-- Se as imagens acima não carregarem (erro 503 do serviço público), troque pela versão sem tema e fundo transparente: -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Camilarmota&show_icons=true&bg_color=00000000&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff"/> -->
 
 ---
 
