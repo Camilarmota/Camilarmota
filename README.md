@@ -64,9 +64,27 @@ Solução de arquitetura em nuvem para uma plataforma SaaS de gestão de documen
 - 🧱 Infraestrutura provisionada via **AWS CloudFormation** (IaC)
 - 💰 Estimativa de custos detalhada: ~US$ 0,003 por documento processado
 
-- [**Startup Jarva's - Arquitetura AWS**](https://github.com/Camilarmota/jarvas-aws-architecture) - Desafio Escola da Nuvem
-- [**Desafio Final - Bootcamp Re-Start 2024**](https://github.com/Camilarmota/Bootcamp-Re-Start-2024---Desafio-Final) - Vencedor do desafio da Comunidade Data Girl
-- [**Trilha Python - DIO**](https://github.com/Camilarmota/trilha-python-dio)
+🔗 [Ver repositório](https://github.com/Camilarmota/jarvas-aws-architecture)
+
+---
+
+### 🏅 [Desafio Final — Bootcamp Re-Start 2024](https://github.com/Camilarmota/Bootcamp-Re-Start-2024---Desafio-Final)
+
+Análise exploratória de dados sobre o mercado de dados no Brasil, desenvolvida para o desafio final do **Bootcamp de Data Science da Comunidade Data Girl** — projeto vencedor do desafio.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-9D4EDD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Análise%20Exploratória-3C096C?style=flat-square"/>
+</p>
+
+- 📊 Baseado no dataset **State of Data Brazil 2023** (Data Hackers + Bain & Company)
+- 🐍 Análise em **Jupyter Notebook** com **Python**, **Pandas**, **Seaborn** e **Matplotlib**
+- 💰 Explorou distribuição de salários e áreas mais contratadas no mercado de dados
+- 🧑‍🤝‍🧑 Análise demográfica de profissionais de dados no Brasil
+- 🏆 Projeto vencedor do desafio da Comunidade Data Girl
+
+🔗 [Ver repositório](https://github.com/Camilarmota/Bootcamp-Re-Start-2024---Desafio-Final)
 
 ---
 
