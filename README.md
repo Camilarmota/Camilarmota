@@ -24,7 +24,7 @@
 
 📊 Desenvolvendo projetos com **SQL**, **Python**, **Power BI** e **Excel**, explorando análise de dados, ETL, visualização e construção de dashboards.
 
-☁️ **AWS Certified Cloud Practitioner**
+☁️ **AWS Certified Cloud Practitioner** | 811/1000
 
 🤖 Também estudo Inteligência Artificial, automação e tecnologias orientadas a dados, buscando transformar informações em insights e soluções práticas.
 
@@ -46,8 +46,25 @@
 
 ---
 
-## 🏆 Contribuições Recentes
+## 🏆 Projetos em Destaque
 
+### ☁️ [Startup Jarva's — Arquitetura AWS Serverless](https://github.com/Camilarmota/jarvas-aws-architecture)
+
+Solução de arquitetura em nuvem para uma plataforma SaaS de gestão de documentos com IA, desenvolvida como desafio da **Escola da Nuvem**. Projeto serverless que resolve isolamento entre clientes, retenção permanente de arquivos e otimização de custos ao longo do ciclo de vida dos dados.
+
+<p>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Architecture-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Serverless-9D4EDD?style=flat-square"/>
+<img src="https://img.shields.io/badge/IaC%20(CloudFormation)-3C096C?style=flat-square"/>
+</p>
+
+- 🔑 **Cognito + API Gateway + Lambda** para autenticação e controle de acesso por usuário
+- 🗄️ **S3 Intelligent-Tiering → Glacier Deep Archive** via S3 Lifecycle, com Object Lock para preservação
+- 🏷️ **DynamoDB** para metadados e validação de propriedade dos documentos
+- 🧱 Infraestrutura provisionada via **AWS CloudFormation** (IaC)
+- 💰 Estimativa de custos detalhada: ~US$ 0,003 por documento processado
+
+- [**Startup Jarva's - Arquitetura AWS**](https://github.com/Camilarmota/jarvas-aws-architecture) - Desafio Escola da Nuvem
 - [**Desafio Final - Bootcamp Re-Start 2024**](https://github.com/Camilarmota/Bootcamp-Re-Start-2024---Desafio-Final) - Vencedor do desafio da Comunidade Data Girl
 - [**Trilha Python - DIO**](https://github.com/Camilarmota/trilha-python-dio)
 
@@ -81,6 +98,9 @@
 </td>
 <td align="center" width="120">
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="50"/><br><sub><b>Seaborn</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=excel" width="50"/><br><sub><b>Excel</b></sub>
 </td>
 </tr>
 </table>
